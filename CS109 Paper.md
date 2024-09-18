@@ -1,8 +1,3 @@
-**Pranav Somani**  
-**Prof. Cain**  
-**CS109**  
-**2 June 2024**
-
 **CS109 Challenge Project: Developing a Tool to Recognize Suicidal Ideation**
 
 Introduction: According to the CDC, in 2019, more than 12 million Americans contemplated suicide. Among them, 1.4 million attempted to end their lives, and tragically, 47,500 individuals died by suicide. This issue has become so pervasive that the CDC has stated that suicide is the eleventh leading cause of death in the United States. After COVID-19, we’ve seen a sharp increase in social media usage—usage that has been linked to loneliness and depression, key risk factors that contribute to suicidal ideation and suicide. While social media can be incredibly detrimental to one’s mental health, it is also clear that social media is integral to modern society. However, what if there was a way to harness social media to combat mental health struggles rather than perpetuate them? What if the very platforms that frequently recommend content damaging to one’s psyche recognized the mental state of a user, guiding them towards the proper help they need if they need it? 
