@@ -35,6 +35,6 @@ References:
 Background Information: https://www.cdc.gov/suicide/facts/index.html <br />
 Dataset found here: https://data.mendeley.com/datasets/z8s6w86tr3/1 <br />
 Information about GloVe: https://vinija.ai/nlp/word-vectors/#overview-2 <br />
-Information about Random Forest: https://www.cs.cmu.edu/~qyj/papersA08/11-rfbook.pdf,https://www.math.mcgill.ca/yyang/resources/doc/randomforest.pdf <br />
+Information about Random Forest: https://www.cs.cmu.edu/~qyj/papersA08/11-rfbook.pdf
 
 
