@@ -32,10 +32,10 @@ Discussion and Impact: It’s no secret that social media has led to declining m
 Conclusion: Ultimately, suicide isn’t a problem that will magically disappear through the use of machine learning; however, I am a firm believer that if used correctly, we can recognize early signs that a person has been thinking about taking their own life. Algorithms like the one I developed are a step toward the right direction—a direction in which those struggling with their thoughts don’t end up acting on them. 
 
 References:
-Background Information: https://www.cdc.gov/suicide/facts/index.html
-Dataset found here: https://data.mendeley.com/datasets/z8s6w86tr3/1
-Information about GloVe: https://vinija.ai/nlp/word-vectors/#overview-2
-Pictures and Information about Random Forest: https://www.cs.cmu.edu/~qyj/papersA08/11-rfbook.pdf
-https://www.math.mcgill.ca/yyang/resources/doc/randomforest.pdf
+Background Information: https://www.cdc.gov/suicide/facts/index.html <br />
+Dataset found here: https://data.mendeley.com/datasets/z8s6w86tr3/1 <br />
+Information about GloVe: https://vinija.ai/nlp/word-vectors/#overview-2 <br />
+Pictures and Information about Random Forest: https://www.cs.cmu.edu/~qyj/papersA08/11-rfbook.pdf <br />
+https://www.math.mcgill.ca/yyang/resources/doc/randomforest.pdf <br />
 
 
